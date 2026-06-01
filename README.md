@@ -1,8 +1,8 @@
 # v2rayN-core-bin (Fedarisha)
 
-Repackaged `2dust/v2rayN-core-bin` bundles with `xray.exe` replaced by the
-[Fedarisha/xray-builds](https://github.com/Fedarisha/xray-builds) fork.
+Repackaged `2dust/v2rayN-core-bin` bundles with `xray.exe` replaced by a
+locally built [Fedarisha/Xray-core-fedarisha](https://github.com/Fedarisha/Xray-core-fedarisha) binary.
 
-Current xray release: **v26.5.3-fed.4**
+Current xray source: **v1.260524.0**
 
 Files are consumed by `v2rayN/build-release.sh` and the package-* scripts.
